@@ -1,0 +1,12 @@
+H:\WinSoft\DL\bin\Debug\DL.dll
+H:\WinSoft\DL\bin\Debug\DL.pdb
+H:\WinSoft\DL\obj\Debug\DL.csprojAssemblyReference.cache
+H:\WinSoft\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+H:\WinSoft\DL\obj\Debug\DL.dll
+H:\WinSoft\DL\obj\Debug\DL.pdb
+P:\WinSoft\DL\bin\Debug\DL.dll
+P:\WinSoft\DL\bin\Debug\DL.pdb
+P:\WinSoft\DL\obj\Debug\DL.csprojAssemblyReference.cache
+P:\WinSoft\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+P:\WinSoft\DL\obj\Debug\DL.dll
+P:\WinSoft\DL\obj\Debug\DL.pdb
