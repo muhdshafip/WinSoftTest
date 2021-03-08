@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinSoftTest", "WinSoftTest\WinSoftTest.csproj", "{9462AA64-FDC0-4EC1-8C03-0A01CDCE344B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9462AA64-FDC0-4EC1-8C03-0A01CDCE344B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9462AA64-FDC0-4EC1-8C03-0A01CDCE344B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9462AA64-FDC0-4EC1-8C03-0A01CDCE344B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9462AA64-FDC0-4EC1-8C03-0A01CDCE344B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0327F37F-207D-4E37-92FA-80D1B50397D5}
+	EndGlobalSection
+EndGlobal
